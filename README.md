@@ -2,9 +2,7 @@
 
 ![lpicanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpicanco&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpicanco&langs_count=8&layout=compact&theme=tokyonight&hide=HTML,Jupyter+Notebook,CSS&exclude_repo=grails)](https://github.com/anuraghazra/github-readme-stats)
-
-grails
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpicanco&langs_count=8&layout=compact&theme=tokyonight&hide=HTML,Jupyter+Notebook,CSS&exclude_repo=grails,stackoverflow-java-sdk)
 
 <!--
 <a href="https://github.com/lpicanco/i3-autodisplay">
