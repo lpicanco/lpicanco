@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a Software Engineer <br/>
-Lisbon, Portugal 🇵🇹
+📍Lisbon, Portugal 🇵🇹
 
 ![lpicanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpicanco&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpicanco&langs_count=8&layout=compact&theme=tokyonight&hide=HTML,Jupyter+Notebook,CSS&exclude_repo=grails,stackoverflow-java-sdk,github-readme-stats,github-readme-stats-site,nostr-relay-registry,nostr-gateway,swagger-ui)
